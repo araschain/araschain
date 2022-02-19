@@ -5,9 +5,12 @@
 
 <h3> Social Media </h3>
 
-[![Discord Badge](https://img.shields.io/badge/Instagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/arasfpsz/)
 
-[![Discord Badge](https://img.shields.io/badge/Discord%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/arasfpsz/)
+<h3>🌟 To reach:</h3>
+<p align="center">
+     <a href="https://discord.gg/SY7aMsVpUJ" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=discord&logoColor=white%22%3E</a>
+
+[![Discord Badge](https://img.shields.io/badge/Instagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/arasfpsz/)
 
 <h1 align="center"> My Discord Acc </h1>
 
