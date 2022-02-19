@@ -7,6 +7,8 @@
 
 [![Discord Badge](https://img.shields.io/badge/Instagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/arasfpsz/)
 
+[![Discord Badge](https://img.shields.io/badge/Discord%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/arasfpsz/)
+
 <h1 align="center"> My Discord Acc </h1>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/716252316562489355?hideDiscrim=true)](https://discord.com/users/716252316562489355)
