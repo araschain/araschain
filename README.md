@@ -9,4 +9,4 @@
 
 <h1 align="center"> My Discord Acc </h1>
 
-[![Discord Profilim](https://discord.com/users/734046689505312829)
+[Discord Profilim](https://discord.com/users/734046689505312829)
