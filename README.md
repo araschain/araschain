@@ -5,7 +5,7 @@
 
 <h3> Social Media </h3>
 
-[![Discord Badge](https://img.shields.io/badge/Instagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/arasszin/)
+[![Discord Badge](https://img.shields.io/badge/Instagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=dark)](https://www.instagram.com/arasszpz/)
 
 <h1 align="center"> My Discord Acc </h1>
 
